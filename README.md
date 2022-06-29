@@ -2,4 +2,4 @@
 
 Clicking on the button gives a random Hex Color
 
-[Solution URL](#)
+[Solution URL](https://aditi002-holo.github.io/color-flipper/)
